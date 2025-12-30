@@ -3,7 +3,7 @@
     <img src="https://github.com/php-compatible/.github/blob/main/resources/php-compatible-logo.png" alt="PHP Compatible" width="auto" height="88">
   </a>
   <p>
-    <strong>A set of packages that backfill new PHP features to older php projects, providing an automated upgrade path to the latest version of PHP</strong>
+    <strong>A set of packages that backfill new PHP features to older php projects</strong>
   </p>
 </div>
 
