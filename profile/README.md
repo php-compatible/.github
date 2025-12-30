@@ -9,7 +9,7 @@
 
 ## Our Mission
 
-"To help give developers an upgrade path, so that old PHP projects can be upgraded to the latest PHP standards with ease."
+"To help give developers an automated upgrade path, so that old PHP projects can be upgraded to the latest PHP standards with ease."
 
 <!--
 
