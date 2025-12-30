@@ -7,6 +7,10 @@
   </p>
 </div>
 
+## Our Mission
+
+"To help give developers an upgrade path, so that old PHP projects can be upgraded to the latest PHP standards with ease."
+
 <!--
 
 **Here are some ideas to get you started:**
