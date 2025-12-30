@@ -5,11 +5,10 @@
   <p>
     <strong>A set of packages that backfill new PHP features to older php projects</strong>
   </p>
+  <p>
+    <strong>Making upgrading old PHP projects easy and simple.</strong>
+  </p>
 </div>
-
-## Our Mission
-
-"To make upgrading old PHP easy and simple."
 
 <!--
 
