@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/php-compatible">
-    <img src="[https://github.com/daniel-samson/teensyphp/blob/main/resources/teensy-php-logo.svg](https://github.com/php-compatible/.github/blob/main/resources/php-compatible-logo.png)" alt="PHP Compatible" width="auto" height="88">
+    <img src="https://github.com/php-compatible/.github/blob/main/resources/php-compatible-logo.png" alt="PHP Compatible" width="auto" height="88">
   </a>
   <p>
     <strong>A set of packages that backfill new php features for older php projects</strong>
